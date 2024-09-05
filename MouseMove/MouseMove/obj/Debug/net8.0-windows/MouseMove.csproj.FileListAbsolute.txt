@@ -1,0 +1,14 @@
+C:\Users\JH\source\repos\MouseMove\MouseMove\obj\Debug\net8.0-windows\MouseMove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JH\source\repos\MouseMove\MouseMove\obj\Debug\net8.0-windows\MouseMove.AssemblyInfoInputs.cache
+C:\Users\JH\source\repos\MouseMove\MouseMove\obj\Debug\net8.0-windows\MouseMove.AssemblyInfo.cs
+C:\Users\JH\source\repos\MouseMove\MouseMove\obj\Debug\net8.0-windows\MouseMove.csproj.CoreCompileInputs.cache
+C:\Users\JH\source\repos\MouseMove\MouseMove\bin\Debug\net8.0-windows\MouseMove.exe
+C:\Users\JH\source\repos\MouseMove\MouseMove\bin\Debug\net8.0-windows\MouseMove.deps.json
+C:\Users\JH\source\repos\MouseMove\MouseMove\bin\Debug\net8.0-windows\MouseMove.runtimeconfig.json
+C:\Users\JH\source\repos\MouseMove\MouseMove\bin\Debug\net8.0-windows\MouseMove.dll
+C:\Users\JH\source\repos\MouseMove\MouseMove\bin\Debug\net8.0-windows\MouseMove.pdb
+C:\Users\JH\source\repos\MouseMove\MouseMove\obj\Debug\net8.0-windows\MouseMove.dll
+C:\Users\JH\source\repos\MouseMove\MouseMove\obj\Debug\net8.0-windows\refint\MouseMove.dll
+C:\Users\JH\source\repos\MouseMove\MouseMove\obj\Debug\net8.0-windows\MouseMove.pdb
+C:\Users\JH\source\repos\MouseMove\MouseMove\obj\Debug\net8.0-windows\MouseMove.genruntimeconfig.cache
+C:\Users\JH\source\repos\MouseMove\MouseMove\obj\Debug\net8.0-windows\ref\MouseMove.dll
